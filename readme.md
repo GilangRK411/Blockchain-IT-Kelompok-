@@ -1,8 +1,10 @@
 # Dokumentasi Proyek Blockchain Sederhana
 
-## Deskripsi Proyek
+## Anggota Kelompok
 
-Proyek ini merupakan implementasi sederhana dari sistem blockchain menggunakan bahasa pemrograman Python dan framework Flask. Sistem ini mendukung fitur dasar blockchain seperti transaksi, mining (Proof of Work), validasi tanda tangan digital menggunakan ECDSA, serta sinkronisasi antar node dalam jaringan.
+### Ditya Wahyu Ramadhan - 5027221051
+
+### Gilang Raya Kurniawan - 5027220145
 
 ---
 
