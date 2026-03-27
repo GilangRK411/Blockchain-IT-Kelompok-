@@ -94,7 +94,6 @@ Digunakan untuk membuat digital signature berdasarkan private key. Signature ini
 **Screenshot:**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d882d35-8e55-4f6b-88a6-31a9d8cb7267" />
 
-
 ---
 
 ### 3. Penambahan Transaksi
@@ -120,7 +119,7 @@ POST /transactions/new
 Menambahkan transaksi baru ke dalam mempool (daftar transaksi sementara). Transaksi hanya akan ditambahkan jika digital signature valid.
 
 **Screenshot:**
-*(Tambahkan screenshot di sini)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/033f350b-3804-423a-bb99-6c96fc85f99a" />
 
 ---
 
@@ -136,7 +135,7 @@ GET /mine
 Melakukan proses Proof of Work untuk membuat block baru. Semua transaksi dalam mempool akan dimasukkan ke dalam block.
 
 **Screenshot:**
-*(Tambahkan screenshot di sini)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd36eb5d-5d40-4b5c-96b6-51d5680c953b" />
 
 ---
 
@@ -151,7 +150,7 @@ Reward ditambahkan melalui transaksi khusus dengan:
 * recipient = node_identifier
 
 **Screenshot:**
-*(Tambahkan screenshot di sini)*
+<img width="390" height="107" alt="image" src="https://github.com/user-attachments/assets/1138e129-fe34-4aa4-bb53-b41bf1568672" />
 
 ---
 
@@ -167,7 +166,7 @@ GET /chain
 Menampilkan seluruh isi blockchain yang telah terbentuk.
 
 **Screenshot:**
-*(Tambahkan screenshot di sini)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/50ad3d38-7e69-4cd8-bc81-69345c93cd49" />
 
 ---
 
@@ -203,7 +202,7 @@ GET /nodes/resolve
 Node akan membandingkan blockchain miliknya dengan node lain, dan mengganti chain jika ditemukan chain yang lebih panjang dan valid.
 
 **Screenshot:**
-*(Tambahkan screenshot di sini)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1e2d2b0-5b53-4782-a551-8c440ad8f30f" />
 
 ---
 
