@@ -66,7 +66,7 @@ GET /wallet/new
 Digunakan untuk membuat pasangan public key dan private key.
 
 **Screenshot:**
-*(Tambahkan screenshot di sini)*
+<img width="1920" height="1080" alt="Screenshot (793)" src="https://github.com/user-attachments/assets/3b90aa79-39b1-4e43-b657-76f02023d628" />
 
 ---
 
@@ -82,9 +82,9 @@ POST /wallet/sign
 
 ```json
 {
-  "private_key": "ISI_PRIVATE_KEY",
+  "private_key": "PRIVATE_KEY",
   "recipient": "alamat_tujuan",
-  "amount": 10
+  "amount": 1000
 }
 ```
 
@@ -92,7 +92,8 @@ POST /wallet/sign
 Digunakan untuk membuat digital signature berdasarkan private key. Signature ini akan digunakan saat mengirim transaksi.
 
 **Screenshot:**
-*(Tambahkan screenshot di sini)*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d882d35-8e55-4f6b-88a6-31a9d8cb7267" />
+
 
 ---
 
